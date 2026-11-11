@@ -53,3 +53,4 @@ git config --global user.email "your.email@example.com"
 
 ## 📜 License
 MIT License • NextSem Academy Open Curriculum
+
